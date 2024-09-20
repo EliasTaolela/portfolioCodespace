@@ -1,4 +1,4 @@
-This app was created using codespace to make a portfolio using php laravel, to get the app working you need the following
+This app was created with codespace to make a portfolio using php laravel, to get the app working you need to do the following
 
 1. Php installed with reqiured database
 2. run npm install
